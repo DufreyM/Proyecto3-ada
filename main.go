@@ -6,9 +6,7 @@ func main() {
 
 	config := []int{0, 1, 2, 3, 4}
 
-	// =====================
 	// PREGUNTA 1
-	// =====================
 
 	fmt.Println("\n===== PREGUNTA 1 =====")
 
@@ -21,9 +19,7 @@ func main() {
 
 	mtf(config, case1)
 
-	// =====================
 	// PREGUNTA 2
-	// =====================
 
 	fmt.Println("\n===== PREGUNTA 2 =====")
 
@@ -36,15 +32,11 @@ func main() {
 
 	mtf(config, case2)
 
-	// =====================
 	// PREGUNTA 3 Y 4
-	// =====================
 
 	bestAndWorstCase()
 
-	// =====================
 	// PREGUNTA 5
-	// =====================
 
 	fmt.Println("\n===== PREGUNTA 5 (20 veces 2) =====")
 
@@ -66,9 +58,7 @@ func main() {
 
 	mtf(config, case5b)
 
-	// =====================
 	// PREGUNTA 6
-	// =====================
 
 	fmt.Println("\n===== PREGUNTA 6 IMTF =====")
 
